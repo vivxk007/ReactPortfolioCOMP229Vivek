@@ -27,3 +27,14 @@ Personal portfolio website created with React for COMP229 Web Application Develo
 
 ## Build
 Run `npm run build` to create a production build.
+
+## Assignment Information
+
+The project although basic, demonstrates functionality using:
+- React component-based development
+- React Router navigation
+- Responsive CSS design
+- Form handling with React state
+- Reusable components
+- Internal code documentation
+- Git and GitHub version control
