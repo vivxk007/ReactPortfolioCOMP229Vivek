@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480">
+  <rect width="800" height="480" fill="#eaf2f8"/>
+  <rect x="105" y="70" width="590" height="340" rx="28" fill="#fff"/>
+  <rect x="140" y="105" width="150" height="20" rx="10" fill="#0b2343"/>
+  <rect x="140" y="160" width="220" height="90" rx="18" fill="#dceaf4"/>
+  <rect x="385" y="160" width="275" height="90" rx="18" fill="#edf4f9"/>
+  <path d="M420 220 C470 165 520 235 570 185 S640 205 650 170" fill="none" stroke="#397cb3" stroke-width="9" stroke-linecap="round"/>
+  <rect x="140" y="280" width="520" height="90" rx="18" fill="#f4f7fa"/>
+  <path d="M185 330h430" stroke="#bfd0de" stroke-width="4" stroke-dasharray="10 12"/>
+  <text x="185" y="347" font-size="42" fill="#0b2343">✈</text>
+</svg>
